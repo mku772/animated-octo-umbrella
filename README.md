@@ -75,3 +75,5 @@ Nmap done: 1 IP address (1 host up) scanned in 0.12 seconds
 
 [+] Recon complete. Report saved as octo-umbrella-20250704-120036.log
 \033[1;32m==[ Stay stealthy under the octo-umbrella! ]==\033[0m
+I know you cant see the words alot but that my terminal Name (m9909) if your wondering
+i am still wroking on it dont worry there is going to be more updates on it languages (etc) 
