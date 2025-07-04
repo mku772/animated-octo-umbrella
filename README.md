@@ -38,7 +38,9 @@ This project is open source. See the [LICENSE](LICENSE) file for details.
 ---
 
 _You can update this README as your project grows and becomes more specific!_
-WHAT IT LOOKS LIKE!
+
+what it looks like
+
 
       _             _       _       _           _                  _
   ___| | ___  _ __ (_) __ _| |__   | |__   ___ | |_   _ __   ___  | |__   __ _
