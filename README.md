@@ -38,3 +38,38 @@ This project is open source. See the [LICENSE](LICENSE) file for details.
 ---
 
 _You can update this README as your project grows and becomes more specific!_
+WHAT IT LOOKS LIKE!
+
+      _             _       _       _           _                  _
+  ___| | ___  _ __ (_) __ _| |__   | |__   ___ | |_   _ __   ___  | |__   __ _
+ / __| |/ _ \| '_ \| |/ _` | '_ \  | '_ \ / _ \| __| | '_ \ / _ \ | '_ \ / _` |
+| (__| | (_) | | | | | (_| | | | | | | | | (_) | |_  | |_) |  __/ | |_) | (_| |
+ \___|_|\___/|_| |_|_|\__, |_| |_| |_| |_|\___/ \__| | .__/ \___| |_.__/ \__,_|
+                     |___/                         |_|
+
+\033[1;32m==[ animate-octo-umbrella: Hacker Recon Suite ]==\033[0m
+\033[1;36m[*] Initializing scan...\033[0m
+mzNj3IqM7pt2yepCgZyrPI4uX2lgMScp
+[*] Scanning current directory for files and folders...
+total 36K
+drwxr-xr-x  3 m9909 m9909 4.0K Jul  4 12:00 .
+drwx------ 18 m9909 m9909 4.0K Jul  4 09:19 ..
+-rw-r--r--  1 m9909 m9909 2.0K Jul  4 12:00 animate-octo-umbrella.sh
+-rw-r--r--  1 m9909 m9909 2.5K Jul  4 09:59 animate-octo-umbrella.sh.save
+drwxr-xr-x  8 m9909 m9909 4.0K Jul  3 21:47 .git
+-rw-r--r--  1 m9909 m9909  873 Jul  4 09:24 octo-umbrella-20250704-092359.log
+-rw-r--r--  1 m9909 m9909 1.0K Jul  4 11:44 octo-umbrella-20250704-114355.log
+-rw-r--r--  1 m9909 m9909   67 Jul  4 12:00 octo-umbrella-20250704-120036.log
+-rw-r--r--  1 m9909 m9909 1.4K Jul  3 21:47 README.md
+[*] Searching for sensitive files (.env, id_rsa, config.php, etc)...
+[*] Checking for open ports on localhost (nmap)...
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-04 12:00 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000011s latency).
+All 100 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.12 seconds
+
+[+] Recon complete. Report saved as octo-umbrella-20250704-120036.log
+\033[1;32m==[ Stay stealthy under the octo-umbrella! ]==\033[0m
